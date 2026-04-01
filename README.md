@@ -1,5 +1,7 @@
 # AI Knowledge Base
 
+> https://github.com/jimc1682000/ai-kb
+
 用 AI 驅動的知識庫系統，結合卡片盒筆記法（Zettelkasten）與 Claude Code，實現團隊知識的原子化、互連與漸進累積。
 
 ## 簡介

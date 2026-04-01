@@ -64,3 +64,4 @@
 
 - [[metrics]] — 實際成果數據
 - [[toolchain]] — 使用到的所有工具清單
+- GitHub: https://github.com/jimc1682000/ai-kb
